@@ -1,4 +1,4 @@
-theme: minima
+theme: midnight
 title: Alinta Wang
 author: alintawang
 email: alinta.wang@gmail.com
@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Master's student at the University of Texas at Dallas studying Computer Science with a focus in Cybersecurity.
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+instagram_username: alinta.wang
+github_username:  https://github.com/alintawang
 
 show_excerpts: true # set to false to remove excerpts on the homepage
